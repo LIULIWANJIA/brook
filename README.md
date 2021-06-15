@@ -1,3 +1,3 @@
 # brook
 
-bash <(curl -Lso- https://raw.githubusercontent.com/LIULIWANJIA/XMR/main/xmr.sh)
+https://raw.githubusercontent.com/LIULIWANJIA/brook/main/brook-pf.sh
